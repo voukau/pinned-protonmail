@@ -16,7 +16,7 @@
 
     "browser_action": {
         "default_icon": {
-            "48": "icons/favicon.png"
+            "48": "icons/browser-icon.png"
         },
         "default_title": "ProtonMail",
         "default_area": "navbar"
