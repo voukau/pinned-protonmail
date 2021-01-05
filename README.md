@@ -1,4 +1,5 @@
 # About
+![Mozilla Add-on](https://img.shields.io/amo/users/pinned-protonmail)
 
 Pinned ProtonMail is a simple browser extenstion that opens a new [ProtonMail](https://mail.protonmail.com) tab or switches to it if it's already open.
 
